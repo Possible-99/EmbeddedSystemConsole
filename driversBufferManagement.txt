@@ -1,0 +1,4 @@
+wget http://ftp.us.debian.org/debian/pool/main/libs/libsdl2/libsdl2-dev_2.0.14+dfsg2-3_armhf.deb
+wget http://ftp.us.debian.org/debian/pool/main/libs/libsdl2-image/libsdl2-image-dev_2.0.5+dfsg1-2_armhf.deb
+wget http://ftp.us.debian.org/debian/pool/main/libs/libsdl2-mixer/libsdl2-mixer-dev_2.0.4+dfsg1-2_armhf.deb
+wget http://ftp.us.debian.org/debian/pool/main/libs/libsdl2-ttf/libsdl2-ttf-dev_2.0.15+dfsg1-1_armhf.deb
